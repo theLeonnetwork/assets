@@ -1,0 +1,32 @@
+{
+    "name": "Leon Network",
+    "website": "https://leonnetwork.org/",
+    "description": "Leon Network is a decentralized blockchain platform that utilizes Real-World Asset (RWA) based tokens,These tokens represent assets from the physical world, such as real estate, art, commodities, and more.",
+    "explorer": "https://bscscan.com/",
+    "research": "https://leonnetwork.org/",
+    "symbol": "LEON",
+    "type": "token",
+    "decimals": 18,
+    "status": "active",
+    "tags": [
+        "staking-native"
+    ],
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/theleonnetwork"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/Theleonnetwork"
+        },
+        {
+            "name": "youtube",
+            "url": "https://www.youtube.com/@leonnetwork"
+        },
+        {
+            "name": "whitepaper",
+            "url": "hhttps://leonnetwork.org/wp-content/uploads/2024/11/Whitepaper.pdf"
+        }
+    ]
+}
